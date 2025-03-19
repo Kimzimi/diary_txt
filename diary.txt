@@ -108,3 +108,9 @@ Day 1: I brushed my teeth.
 Day 1: I took a shower.
 Day 1: I drove to the community center.
 Day 1: I watched a movie at home with my brother Mike.
+Day 1: I woke up.
+Day 1: I used the bathroom.
+Day 1: I brushed my teeth.
+Day 1: I took a shower.
+Day 1: I drove to the park.
+Day 1: I listened to music on my phone.
