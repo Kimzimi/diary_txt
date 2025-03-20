@@ -314,3 +314,4 @@ Day 2: I brushed my teeth.
 Day 2: I took a shower.
 Day 2: I drove to the library.
 Day 2: I organized my desk.
+Day 2: I wrote in my journal.
