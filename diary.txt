@@ -173,3 +173,4 @@ Day 1: I strolled around the mall.
 Day 1: I had a salad with my friend Alex.
 Day 1: I had breakfast with my brother Mike.
 Day 1: I went for a walk in the park with my neighbor Tom.
+Day 1: I watched a movie at home with my friend Alex.
