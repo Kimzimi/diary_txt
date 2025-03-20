@@ -307,3 +307,4 @@ Day 1: I had dinner with my neighbor Tom.
 Day 1: I went for a walk in the park with my sister Jane.
 Day 1: I went for a walk in the park with my friend Alex.
 Day 1: I had breakfast with my cousin Sarah.
+Day 1: I went to bed.
