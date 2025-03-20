@@ -166,3 +166,4 @@ Day 1: I cooked dinner with my neighbor Tom.
 Day 1: I had homemade pizza with my sister Jane.
 Day 1: I took my dog for a walk.
 Day 1: I cooked dinner with my neighbor Tom.
+Day 1: I took my dog for a walk.
