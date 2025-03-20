@@ -253,3 +253,4 @@ Day 1: I watched YouTube videos.
 Day 1: I had lunch with my neighbor Tom.
 Day 1: I had dinner with my cousin Sarah.
 Day 1: I listened to music on my phone.
+Day 1: I watched an old TV show.
