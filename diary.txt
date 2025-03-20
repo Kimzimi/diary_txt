@@ -308,3 +308,9 @@ Day 1: I went for a walk in the park with my sister Jane.
 Day 1: I went for a walk in the park with my friend Alex.
 Day 1: I had breakfast with my cousin Sarah.
 Day 1: I went to bed.
+Day 2: I woke up.
+Day 2: I used the bathroom.
+Day 2: I brushed my teeth.
+Day 2: I took a shower.
+Day 2: I drove to the library.
+Day 2: I organized my desk.
