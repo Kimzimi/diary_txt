@@ -407,3 +407,9 @@ Day 1: I took a shower.
 Day 1: I drove to the park.
 Day 1: I had some tea with my neighbor Tom.
 Day 1: I had a coffee chat with my dad.
+Day 1: I woke up.
+Day 1: I used the bathroom.
+Day 1: I brushed my teeth.
+Day 1: I took a shower.
+Day 1: I drove to my friend's house.
+Day 1: I had a salad with my mom.
