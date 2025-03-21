@@ -400,3 +400,9 @@ Day 2: I read a book on my shelf.
 Day 2: I had a snack with my friend Alex.
 Day 2: I cooked dinner with my brother Mike.
 Day 2: I had dinner with my mom.
+Day 1: I woke up.
+Day 1: I used the bathroom.
+Day 1: I brushed my teeth.
+Day 1: I took a shower.
+Day 1: I drove to the park.
+Day 1: I had some tea with my neighbor Tom.
