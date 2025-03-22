@@ -492,3 +492,4 @@ Day 1: I organized my desk.
 Day 1: I played board games with my friend Alex.
 Day 1: I watched a movie at home with my friend Alex.
 Day 1: I had dinner with my dad.
+Day 1: I read a book on my shelf.
