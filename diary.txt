@@ -512,3 +512,9 @@ Day 1: I played a mobile game.
 Day 1: I did some stretching.
 Day 1: I watched a movie at home with my mom.
 Day 1: I had a coffee chat with my sister Jane.
+Day 1: I woke up.
+Day 1: I used the bathroom.
+Day 1: I brushed my teeth.
+Day 1: I took a shower.
+Day 1: I drove to the park.
+Day 1: I talked about old memories with my friend Alex.
