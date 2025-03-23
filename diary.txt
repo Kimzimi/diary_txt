@@ -696,3 +696,4 @@ Day 1: I sorted my photo albums.
 Day 1: I watched a movie at home with my mom.
 Day 1: I had lunch with my cousin Sarah.
 Day 1: I had lunch with my dad.
+Day 1: I went jogging in the park.
