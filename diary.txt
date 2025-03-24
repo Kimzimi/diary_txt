@@ -712,3 +712,9 @@ Day 1: I strolled around the mall.
 Day 1: I had dinner with my cousin Sarah.
 Day 1: I played a mobile game.
 Day 1: I went to bed.
+Day 2: I woke up.
+Day 2: I used the bathroom.
+Day 2: I brushed my teeth.
+Day 2: I took a shower.
+Day 2: I drove to the community center.
+Day 2: I had lunch with my mom.
