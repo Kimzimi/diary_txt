@@ -752,3 +752,4 @@ Day 2: I read a book on my shelf.
 Day 2: I wrote in my journal.
 Day 2: I watched YouTube videos.
 Day 2: I watched an old TV show.
+Day 2: I did some stretching.
