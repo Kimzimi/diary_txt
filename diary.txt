@@ -971,3 +971,4 @@ Day 3: I had breakfast with my dad.
 Day 3: I played board games with my brother Mike.
 Day 3: I had a snack with my brother Mike.
 Day 3: I went jogging in the park.
+Day 3: I went jogging in the park.
