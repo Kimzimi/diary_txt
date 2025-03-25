@@ -912,3 +912,9 @@ Day 2: I did some gardening with my neighbor Tom.
 Day 2: I had a coffee chat with my neighbor Tom.
 Day 2: I had a salad with my neighbor Tom.
 Day 2: I went to bed.
+Day 3: I woke up.
+Day 3: I used the bathroom.
+Day 3: I brushed my teeth.
+Day 3: I took a shower.
+Day 3: I drove to the park.
+Day 3: I sorted my photo albums.
